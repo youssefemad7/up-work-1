@@ -1,0 +1,108 @@
+
+nav img
+{
+    height: 82.7054443359375px;
+    width: 110px;
+   
+    border-radius: 0px;
+    }
+nav
+{
+    border: 2px solid #000000;
+}
+nav .button1
+{
+    background: #00308F;
+    height: 47px;
+    width: 219px;
+
+}
+.sec2
+{
+    position: absolute;
+    width: 1203px;
+    height: 229px;
+    left: 118px;
+    top: 127px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 75px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+
+    
+}
+.img2
+{
+    position: relative;
+left: 92.19%;
+right: 0.35%;
+top: 100.02%;
+bottom: 42.74%;
+
+}
+.img3
+{
+    position: relative;
+    left: 92%;
+    right: 0.35%;
+    bottom: 28px;
+    
+
+}
+.sec2 h3 
+{
+    position: absolute;
+width: 275px;
+height: 27px;
+left: 25px;
+bottom: 15px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.sec2 button
+{
+    position: relative;
+    width: 333px;
+    height: 60px;
+    left: 50px;
+    background: #00308F;
+    border-radius: 10px;
+}
+.sec3 img
+{
+    position: absolute;
+width: 1200px;
+height: 474px;
+left: 170px;
+top: 556px;
+
+background: url(.jpg);
+border-radius: 10px;
+z-index: 55555555;
+}
+.sec4
+{
+    position: absolute;
+width: 1519.5px;
+height: 264px;
+left: 0px;
+top: 816px;
+
+background: #00308F;
+}
